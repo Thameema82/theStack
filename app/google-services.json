@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "375922879101",
+    "firebase_url": "https://doweb-8125c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "doweb-8125c",
+    "storage_bucket": "doweb-8125c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375922879101:android:591cb6fd316185d9449f14",
+        "android_client_info": {
+          "package_name": "com.example.doweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375922879101-sd63kclfts6v0id7ths3h67gnjfl3m1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC62jKaK2mGvwlylcunLwp_MPUVOBPiItk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375922879101-sd63kclfts6v0id7ths3h67gnjfl3m1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
